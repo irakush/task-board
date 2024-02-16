@@ -96,6 +96,8 @@ DELETE /board/<int:id>
 
 ![screen](./kanban_board2.png)
 
+![screen](./home_page.png)
+
 ## Component Hierarchy
 ![screen](./react_comp.png)
 
